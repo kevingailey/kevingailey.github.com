@@ -6,16 +6,12 @@ picA2: /portfolio/insta/A3.jpg
 picA3: /portfolio/insta/A2.jpg
 picA4: /portfolio/insta/A4.jpg
 ---
-
 <img height="350" width="350" src="/portfolio/insta/insta1.jpg" />
-<img height="350" width="350" src="/portfolio/insta/insta2.jpg" />
-<img height="350" width="350" src="/portfolio/insta/insta3.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta4.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta5.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta6.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta7.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta8.jpg" />
-<img height="350" width="350" src="/portfolio/insta/insta9.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta10.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta11.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta12.jpg" />
@@ -27,11 +23,8 @@ picA4: /portfolio/insta/A4.jpg
 <img height="350" width="350" src="/portfolio/insta/insta18.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta19.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta20.jpg" />
-<img height="350" width="350" src="/portfolio/insta/insta21.jpg" />
-<img height="350" width="350" src="/portfolio/insta/insta22.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta23.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta24.jpg" />
-<img height="350" width="350" src="/portfolio/insta/insta25.jpg" />
 <img height="350" width="350" src="/portfolio/insta/inst1.jpg" />
 <img height="350" width="350" src="/portfolio/insta/inst2.jpg" />
 <img height="350" width="350" src="/portfolio/insta/inst3.jpg" />
