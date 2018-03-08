@@ -7,10 +7,9 @@ picA3: /portfolio/travel/A3.jpg
 picA4: /portfolio/travel/A2.jpg
 ---
 <img height="350" width="350" src="/portfolio/travel/travel1.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel2.jpg" />
+<img height="350" width="350" src="/portfolio/travel/travel5.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel3.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel4.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel5.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel6.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel7.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel8.jpg" />
@@ -30,7 +29,6 @@ picA4: /portfolio/travel/A2.jpg
 <img height="350" width="350" src="/portfolio/travel/travel27.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel29.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel30.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel32.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel33.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel34.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel35.jpg" />
@@ -39,6 +37,4 @@ picA4: /portfolio/travel/A2.jpg
 <img height="350" width="350" src="/portfolio/travel/travel38.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel51.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel52.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel53.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel55.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel57.jpg" />
