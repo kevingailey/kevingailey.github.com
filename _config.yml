@@ -8,7 +8,7 @@ lsi: false
 permalink: /:year/:month/:day/:title.html
 #paginate: 10
 name: byKG  
-description: Kevin Gailey Bio
-url: http://by.kevingailey.com
-rss: http://kevingailey.com/feed.xml
-logo: http://kevingailey.com/img/W5-lights.png
+description: Kevin Gailey Portfolio
+url: https://by.kevingailey.com
+rss: https://kevingailey.com/feed.xml
+logo: https://kevingailey.com/img/C3.jpg
