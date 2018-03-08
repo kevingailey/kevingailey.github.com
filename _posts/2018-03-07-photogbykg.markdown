@@ -21,7 +21,5 @@ picA4: /portfolio/drea/A4.jpg
 <img height="350" width="350" src="/portfolio/drea/Drea14.jpg" />
 <img height="350" width="350" src="/portfolio/drea/Drea16.jpg" />
 <img height="350" width="350" src="/portfolio/drea/Drea17.jpg" />
-<img height="350" width="350" src="/portfolio/drea/Drea20.jpg" />
 <img height="350" width="350" src="/portfolio/drea/Drea21.jpg" />
 <img height="350" width="350" src="/portfolio/drea/Drea22.jpg" />
-<img height="350" width="350" src="/portfolio/drea/Drea24.jpg" />

@@ -12,12 +12,10 @@ picA4: /portfolio/travel/A2.jpg
 <img height="350" width="350" src="/portfolio/travel/travel9.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel6.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel7.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel8.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel10.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel11.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel12.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel13.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel14.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel15.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel16.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel21.jpg" />

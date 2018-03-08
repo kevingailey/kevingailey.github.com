@@ -5,10 +5,10 @@ markdown: kramdown
 server_port: 3000
 pygments: false
 lsi: false
-permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
 #paginate: 10
 name: byKG  
-description: Kevin Gailey Portfolio
+description: Kevin Gailey Portfolio by.KG
 url: https://by.kevingailey.com
 rss: https://kevingailey.com/feed.xml
 logo: https://kevingailey.com/img/C3.jpg
