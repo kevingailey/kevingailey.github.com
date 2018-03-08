@@ -16,10 +16,10 @@ picA4: /portfolio/travel/A2.jpg
 <img height="350" width="350" src="/portfolio/travel/travel13.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel15.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel25.jpg" />
+<img height="350" width="350" src="/portfolio/travel/travel16.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel21.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel23.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel24.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel16.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel26.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel27.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel29.jpg" />
