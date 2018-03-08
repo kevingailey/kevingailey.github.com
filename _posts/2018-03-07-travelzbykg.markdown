@@ -9,7 +9,6 @@ picA4: /portfolio/travel/A2.jpg
 <h1>Travels by.KG</h1>
 
 <img height="350" width="350" src="/portfolio/travel/travel4.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel9.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel6.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel7.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel10.jpg" />
