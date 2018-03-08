@@ -6,6 +6,7 @@ picA2: /portfolio/travel/A4.jpg
 picA3: /portfolio/travel/A3.jpg
 picA4: /portfolio/travel/A2.jpg
 ---
+<h1>Travels by.KG</h1>
 <img height="350" width="350" src="/portfolio/travel/travel1.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel5.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel3.jpg" />
