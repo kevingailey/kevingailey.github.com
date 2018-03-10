@@ -9,14 +9,7 @@ title: "by.KG"
 {% include bio.html %}	 
 		</div>		
 		<div class="span8 columns">
-		  		  <br />
-					  {% for post in site.posts %}	
-					<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA1 }}" /></a>
-					<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA2 }}" /></a>
-					<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA3 }}" /></a>
-					<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA4 }}" /></a>
-					  {% endfor %}
-				  <br/>
+{% include photofeed.html %}	 
 		</div>		
 	</div>
 </div>
