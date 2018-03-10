@@ -9,7 +9,7 @@ jpg: /portfolio/drea/Drea
 ---
 <h1>GradPics by.KG</h1>
 
-<img height="350" width="350" src="{{ post.jpg }}2.jpg" />
+<img height="350" width="350" src="{{ page.jpg }}2.jpg" />
 <img height="350" width="350" src="/portfolio/drea/Drea3.jpg" />
 <img height="350" width="350" src="/portfolio/drea/Drea4.jpg" />
 <img height="350" width="350" src="/portfolio/drea/Drea5.jpg" />
