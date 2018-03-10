@@ -6,7 +6,7 @@ picA2: /portfolio/insta/A3.jpg
 picA3: /portfolio/insta/A2.jpg
 picA4: /portfolio/insta/A4.jpg
 ---
-<h1>Snaps by.KG</h1>
+<h1><a href="https://instagram.com/snapsbykg">Snaps by.KG</a></h1>
 
 <img height="350" width="350" src="/portfolio/insta/inst6.jpg" />
 <img height="350" width="350" src="/portfolio/insta/inst7.jpg" />
