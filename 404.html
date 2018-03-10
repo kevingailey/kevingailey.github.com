@@ -3,10 +3,18 @@ layout: layout
 title: "byKG"
 ---
 <div class="container">	
-
+<h1>OOOOPS</h1>
 	<div class="marketing">
-	<br /><h3>We Seem To Have A Problem..</h3>
+	<br /><h3>404..</h3>
 	<p>Whatever you are looking for was not found.<br /> <a href="/">Try Returning Home</a></p>
+	
+	<p>or check out some photos from all over the world</p>
+	<br />
+	  {% for post in site.posts %}	
+	<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA1 }}" /></a>
+	<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA2 }}" /></a>
+	<br />
+	  {% endfor %}
 		</div>
 
  </div><!-- /container -->
