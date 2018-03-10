@@ -7,7 +7,7 @@ picA3: /portfolio/travel/A3.jpg
 picA4: /portfolio/travel/A2.jpg
 dir: /portfolio/travel
 ---
-<h1>{% title %}</h1>
+<h1>Travels by.KG</h1>
 
 <img height="350" width="350" src="{% dir %}/travel4.jpg" />
 <img height="350" width="350" src="{% dir %}/travel6.jpg" />
