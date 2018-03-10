@@ -7,21 +7,21 @@ dir: /portfolio/insta
 ---
 <h1><a href="https://instagram.com/snapsbykg">Snaps by.KG</a></h1>
 
-<img height="350" width="350" src="{% page.dir %}/inst6.jpg" />
-<img height="350" width="350" src="{% page.dir %}/inst7.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta1.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta6.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta15.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta13.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta18.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta19.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta12.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta20.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta23.jpg" />
-<img height="350" width="350" src="{% page.dir %}/insta24.jpg" />
-<img height="350" width="350" src="{% page.dir %}/inst1.jpg" />
-<img height="350" width="350" src="{% page.dir %}/inst4.jpg" />
-<img height="350" width="350" src="{% page.dir %}/inst8.jpg" />
-<img height="350" width="350" src="{% page.dir %}/inst9.jpg" />
+<img height="350" width="350" src="/portfolio/insta/inst6.jpg" />
+<img height="350" width="350" src="/portfolio/insta/inst7.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta1.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta6.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta15.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta13.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta18.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta19.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta12.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta20.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta23.jpg" />
+<img height="350" width="350" src="/portfolio/insta/insta24.jpg" />
+<img height="350" width="350" src="/portfolio/insta/inst1.jpg" />
+<img height="350" width="350" src="/portfolio/insta/inst4.jpg" />
+<img height="350" width="350" src="/portfolio/insta/inst8.jpg" />
+<img height="350" width="350" src="/portfolio/insta/inst9.jpg" />
 <br />
 <a href="/instazbykgpg2.html"><h2>More Snaps by.KG</h2></a>
