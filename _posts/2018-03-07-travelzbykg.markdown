@@ -25,4 +25,4 @@ dir: /portfolio/travel
 <img height="350" width="350" src="/portfolio/travel/travel27.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel29.jpg" />
 <br />
-<a href="/travelzbykgpg2.html"><h2>More Travels by.KG</h2></a>
+<a href="/travelzbykgpg2.html">More Travels by.KG</a>

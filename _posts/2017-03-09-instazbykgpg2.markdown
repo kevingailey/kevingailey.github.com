@@ -19,4 +19,4 @@ dir: /portfolio/insta
 <img height="350" width="350" src="/portfolio/insta/insta4.jpg" />
 <img height="350" width="350" src="/portfolio/insta/insta5.jpg" />
 
-<a href="/instazbykg.html"><h2>More Snaps by.KG</h2></a>
+<a href="/instazbykg.html">More Snaps by.KG</a>
