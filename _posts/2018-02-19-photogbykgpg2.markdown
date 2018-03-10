@@ -1,10 +1,8 @@
 --- 
 layout: newz 
 title: GradPics by.KG 
-picA1: /portfolio/drea/A1.jpg
-picA2: /portfolio/drea/A2.jpg
-picA3: /portfolio/drea/A3.jpg
-picA4: /portfolio/drea/A4.jpg
+picA1: /portfolio/drea/A3.jpg
+picA2: /portfolio/drea/A4.jpg
 dir: /portfolio/drea
 ---
 <h1> {% title %}</h1>
