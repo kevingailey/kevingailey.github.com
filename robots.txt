@@ -1,0 +1,4 @@
+User-agent: [user-agent name]
+Disallow: /js/
+Disallow: /ccs/
+Disallow: /js/
