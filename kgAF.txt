@@ -1,0 +1,146 @@
+################################################### ***************************************************
+DOWNLOAD LINKS | DOWNLOAD LINKS | DOWNLOAD LINKS
+***************************************************
+################################################### 
+
+* [Download Hotspot Shield for Windows](https://control.kochava.com/v1/cpi/click?campaign_id=koHotspot-shield-2oo5a11d43d86192b9&network_id=5798&device_id=device_id&site_id=1&aftr=%7B%22vh%22%3A%22ext97d846d0-4323-11e8-8e6c-d37dcf82f963%22%2C%22source%22%3A%22ir%22%2C%22clickid%22%3A%22QAcXhCylfQJU1aYX9SyjjWwKUkjwVqTSyzzo140%22%2C%22utm_medium%22%3A%22Affiliate%22%2C%22utm_source%22%3A%22IR%22%2C%22utm_campaign%22%3A%22Online%20Sports%20Management%20Inc..%22%2C%22effect_medium%22%3A%22Affiliate%22%2C%22effect_source%22%3A%22IR%22%2C%22effect_campaign%22%3A%22Online%20Sports%20Management%20Inc..%22%2C%22af_medium%22%3A%22free%22%2C%22af_source%22%3A%22account%22%2C%22af_campaign%22%3A%22upgrade%22%7D&aftr_source=%2Fvpn%2Fvpn-for-windows%2F)
+
+* [Download Hotspot Shield for Mac](https://itunes.apple.com/us/app/Hotspot-shield-vpn-best-vpn/id771076721?mt=12&ls=1)
+
+* [Download Hotspot Shield for iOS, iPhone and iPad](https://itunes.apple.com/app/id443369807?mt=8)
+
+* [Download Hotspot Shield for Android](https://play.google.com/store/apps/details?id=Hotspotshield.android.vpn&hl=en)
+
+* [Download Hotspot Shield for Chrome](https://chrome.google.com/webstore/detail/Hotspot-shield-free-vpn-p/nlbejmccbhkncgokjcmghpfloaajcffj)
+
+* [Download Hotspot Shield for Firefox](https://addons.mozilla.org/en-US/firefox/addon/Hotspot-shield-elite-vpn-proxy/)
+
+################################################### ***************************************************
+iTUNES CANCEL
+***************************************************
+################################################### 
+
+# USING YOUR iOS 9 or 10 DEVICE  
+
+1. Open the App Store and at the bottom, tap **Featured**.
+2. Scroll to the bottom of the screen and tap your Apple ID (**Make sure to Sign In first**).
+3. Tap **View Apple ID**.
+4. Under “Subscriptions,” tap **Manage**.
+5. Tap your Hotspot Shield Elite subscription.
+6. Switch **Off** Auto-Renewal and then click **Confirm**.
+
+# USING YOUR iOS 11 DEVICE  
+
+1. Launch the Settings app.
+2. Tap iTunes & App Store.
+3. Tap on your Apple ID.
+4. Tap View Apple ID when the pop-up window appears.
+5. Enter your Apple ID password or fingerprint ID when prompted.
+6. Tap Subscriptions.
+7. Tap the Subscription you want to cancel.
+8. Tap your Hotspot Shield Elite subscription.
+9. Switch **Off** Auto-Renewal and then click **Confirm**.
+
+
+################################################### ***************************************************
+/itunes
+***************************************************
+################################################### 
+![Device Details](https://support.Hotspotshield.com/hc/article_attachments/115018376626/mceclip2.png)
+
+***************************************************************
+GOOGLE PLAY FRAUD
+**************************************************************
+==========================================
+
+
+Unfortunately, we still couldn't locate the payment with the details you provided and no refund has been issued. Since you were charged by Google Hotspot, it means your card information was linked to Google.
+
+Google is aware of these type of issues and has created a process where you can report to them that your card was compromised. [Here is where you can notify Google about an unauthorized charge so they can help you get your money back.](https://support.google.com/googleplay/contact/play_unrecognized_charge)
+
+To report the charge, you only need to select the option NO - fill out the form below * - > Credit Card> Fill out the information requested by Google and they will investigate who made the charge on your behalf.
+
+-----------------------------
+
+Hello,
+
+Thank you for contacting us. I understand you are unable to stream Netflix while using Hotspot Shield. I was able to locate your account with the email `XXXXXXXXXXXX`  and it does appear you are on a _Free_ Hotspot Shield Account.
+
+Hotspot Shield's Free Edition provides US IP addresses which allow users to access blocked content in the United States. The content that is accessible with the free version is limited, including not being able to stream Netflix. If you want to have full access to US Netflix and websites, you will need to purchase an [Elite subscription](https://order.Hotspotshield.com/trial?utm_source=support&utm_medium=support_email&utm_campaign=zendesk_upsell_trial).
+
+Please let us know how we could further assist you.
+
+Kind regards,
+
+################################################### ***************************************************
+ TURN OFF HSS
+***************************************************
+################################################### 
+Thank you for contacting us regarding pausing your Hotspot Shield Protection.
+
+When Hotspot Shield is **Connected**, there will be a **VPN icon** displayed in the status bar of your device. This means that your online activity is fully protected.
+
+## To disconnect or pause, just tap stop inside the Hotspot Shield app.  
+![Turn OFF HSS](https://support.Hotspotshield.com/hc/article_attachments/115017417566/mceclip2.png)
+
+Here are some helpful articles in our Help Center:
+
+* [How do I sign in to Hotspot Shield?](https://support.Hotspotshield.com/hc/en-us/articles/204631534)
+* [How do I change my Virtual Location?](https://support.Hotspotshield.com/hc/en-us/articles/204900190)
+
+If you have any questions or need further assistance, please let us know.
+
+Kind regards,
+
+=================================================
+
+===============================================
+MAC | MAC
+=============================================
+
+Hello,
+
+Thank you for contacting us and I am sorry to hear about your issues on your Mac.  I can see that you currently still have our older, unsupported Mac version installed. It does seem like the old version is interfering with the Mac connection. Fear not, it is an easy fix. Just follow the steps below:
+
+**Please note: Mac OS 10.10 Yosemite or Higher is required to continue using Hotspot Shield with your Mac. For help updating, [follow Apple's support article.](https://support.apple.com/en-us/HT201541) If you are unable to update you can still use [Hotspot Shield for Chrome](https://chrome.google.com/webstore/detail/Hotspot-shield-free-vpn-p/nlbejmccbhkncgokjcmghpfloaajcffj) or [Hotspot Shield for Firefox](https://addons.mozilla.org/en-US/firefox/addon/Hotspot-shield-elite-vpn-proxy/)**
+
+#### First, uninstall any and all versions installed following these steps:  
+* Go to the Finder sidebar, click **Applications**. Drag any and all versions of the Hotspot Shield app from the Applications folder to the **Trash** (located at the end of the Dock), then Empty Trash.
+
+#### Next Open **System Preferences** or **System Settings.**  
+* Double click on **Networks**
+* Select "Hotspot Shield VPN" from the left side and click "-" (minus) symbol on the left bottom side.
+* Click on "Apply" and close the settings.
+
+#### If you receive a message that the application is open, please do the following:  
+1. Click on the Shield icon to open the app window
+2. Click on **pause protection**
+3. On the upper left corner, you will see the **X** button to close the app.
+
+Then you can remove Hotspot Shield as initially explained.
+
+#### Then, remove cookies and cache in your web browser(s):  
+* Chrome: Chrome menu>Preferences>Show Advanced Settings>Clear Browsing Data
+* Safari: Safari menu>Preferences>Privacy>Remove All Website Data
+* Firefox: Firefox menu>Preferences>Privacy>Remove individual cookies
+
+#### Restart your Mac device and install the latest version from the Mac App store [available here](https://itunes.apple.com/us/app/Hotspot-shield-vpn-best-vpn/id771076721?mt=12).  
+* Finally try to browse the internet with Hotspot Shield turned **ON**
+
+If you have any questions about our Mac app, issues uninstalling, or need any further assistance, please let me know.
+
+Kind regards,
+
+
+
+
+
+Thanks for the prompt reply and I do apologize for this situation.
+
+Unfortunately, we couldn't locate the payment with the details you provided. Since you were charged by Google Hotspot, it means your card information was linked to a Google Play ID in order to make this transaction.
+
+As it turns out, Google prevents us to search using your card information and we can only use the Gmail ID used to download and paid for the app. However, Google is aware of these type of issues and have created a process where you can report to them that your card was compromised. Because of this limitation is given by Google, they have [the option for you to notify about an unauthorized charge so they can help you to track who purchased and how you can get your money back.](https://support.google.com/googleplay/contact/play_unrecognized_charge)
+
+To report the charge, you only need to select the option NO - fill out the form below * - > Credit Card > Fill out the information required in order to find this fraudulent transaction.
+
+Thanks for your understanding.
