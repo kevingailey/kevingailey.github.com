@@ -343,7 +343,7 @@
     background-color: #222222;
   }
   .navbar .dropdown-menu {
-    position: static;
+    position: fixed;
     top: auto;
     left: auto;
     float: none;
