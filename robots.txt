@@ -3,4 +3,5 @@ Allow: /
 Allow: /sitemap.htm
 Disallow: /js/
 Disallow: /css/
+Disallow: /xxx/
 Sitemap: https://by.kevingailey.com/sitemap.xml
