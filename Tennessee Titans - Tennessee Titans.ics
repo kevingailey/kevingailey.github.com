@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+NAME:Tennessee Titans
+X-WR-CALNAME:Tennessee Titans
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Titans Virtual Draft Party\, presented by Bud Light Seltzer
+END:VALARM
+DTSTART:20200423T230000Z
+DTEND:20200424T000000Z
+UID:ubfAFGDaWq0jjtk68Ne0zR2K@stanza.co
+SUMMARY:Titans Virtual Draft Party\, presented by Bud Light Seltzer
+DESCRIPTION:Join us LIVE on social media this Thursday, April 23 for the 2020 Titans Virtual Draft Party, presented by Bud Light Seltzer!\nThe Titans Virtual Draft Party, hosted by Eddie George and Lance Smith, will feature special guest appearances by Nate Bargatze, James Roday, current Titans players and alumni, and live music by Mitchell Tenpenny. Plus, we will be giving away Titans prizes throughout the party, so don't miss it!\n\n\n\nTitans Virtual Draft Party https://stza.co/+KbHa-1J?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:TennesseeTitans.com/DraftParty
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:NFL Draft Round 1
+END:VALARM
+DTSTART:20200424T000000Z
+DTEND:20200424T033000Z
+UID:GFkySaWGKp6w9z05WJdj6lCc@stanza.co
+SUMMARY:NFL Draft Round 1
+DESCRIPTION:NFL Draft Round 1\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:ABC\, ESPN\, NFL Network\, ESPN Deportes\, ESPN Radio
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:NFL Draft Rounds 2-3
+END:VALARM
+DTSTART:20200424T230000Z
+DTEND:20200425T033000Z
+UID:GUAIFOqnxuzjvGdt-YPMzdDo@stanza.co
+SUMMARY:NFL Draft Rounds 2-3
+DESCRIPTION:NFL Draft Rounds 2-3\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:ABC\, ESPN\, NFL Network\, ESPN Deportes\, ESPN Radio
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:NFL Draft Rounds 4-7
+END:VALARM
+DTSTART:20200425T160000Z
+DTEND:20200425T230000Z
+UID:e8atOu3sbjOq09OpxM98mC3v@stanza.co
+SUMMARY:NFL Draft Rounds 4-7
+DESCRIPTION:NFL Draft Rounds 4-7\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:ABC\, ESPN\, NFL Network\, ESPN Deportes\, ESPN Radio
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Broncos
+END:VALARM
+DTSTART:20200915T022000Z
+DTEND:20200915T052000Z
+UID:lr3dhH4f1YvJiQott53tp25D@stanza.co
+SUMMARY:Titans at Broncos
+DESCRIPTION:Titans at Broncos\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Empower Field at Mile High 1701 Mile High Stadium Circle Denver CO 80204 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Jaguars
+END:VALARM
+DTSTART:20200920T170000Z
+DTEND:20200920T200000Z
+UID:PjGpSuvApYHQvnVN-Orrgti3@stanza.co
+SUMMARY:Titans vs Jaguars
+DESCRIPTION:Titans vs Jaguars\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Vikings
+END:VALARM
+DTSTART:20200927T170000Z
+DTEND:20200927T200000Z
+UID:L5AVH4FUYrwkF6R-LPF3eyLV@stanza.co
+SUMMARY:Titans at Vikings
+DESCRIPTION:Titans at Vikings\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:U.S. Bank Stadium 900 S 5th Street Minneapolis MN 55415 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Bills
+END:VALARM
+DTSTART:20201013T230000Z
+DTEND:20201014T020000Z
+UID:ku7fYi952qHaplxNhEN8lGbJ@stanza.co
+SUMMARY:Titans vs Bills
+DESCRIPTION:Titans vs Bills\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Texans
+END:VALARM
+DTSTART:20201018T170000Z
+DTEND:20201018T200000Z
+UID:sWrbiMCY-9YM3g6gdoMWRf2G@stanza.co
+SUMMARY:Titans vs Texans
+DESCRIPTION:Titans vs Texans\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Steelers (Rescheduled)
+END:VALARM
+DTSTART:20201025T170000Z
+DTEND:20201025T200000Z
+UID:ZbMTSqzD-l36ML3iYzEnKj9H@stanza.co
+SUMMARY:Titans vs Steelers (Rescheduled)
+DESCRIPTION:Titans vs Steelers (Rescheduled)\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Bengals
+END:VALARM
+DTSTART:20201101T180000Z
+DTEND:20201101T210000Z
+UID:0GULEJYH3UPlLRgvgCZpZeg8@stanza.co
+SUMMARY:Titans at Bengals
+DESCRIPTION:Titans at Bengals\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Paul Brown Stadium One Paul Brown Stadium Cincinnati OH 45202 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Bears
+END:VALARM
+DTSTART:20201108T180000Z
+DTEND:20201108T210000Z
+UID:wApH7Yfifrpd8u1n82TiwWuP@stanza.co
+SUMMARY:Titans vs Bears
+DESCRIPTION:Titans vs Bears\n\n🎟️ Buy tickets here: https://stza.co/~Ludw?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Colts
+END:VALARM
+DTSTART:20201113T012000Z
+DTEND:20201113T042000Z
+UID:pHLBXQAL2hZ1WFTPOoqKaKWy@stanza.co
+SUMMARY:Titans vs Colts
+DESCRIPTION:Titans vs Colts\n\n🎟️ Buy tickets here: https://stza.co/~LudA?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Ravens
+END:VALARM
+DTSTART:20201122T180000Z
+DTEND:20201122T210000Z
+UID:OQfyyFP793BpeoVwT82urC5k@stanza.co
+SUMMARY:Titans at Ravens
+DESCRIPTION:Titans at Ravens\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:M&T Bank Stadium 1101 Russell Street Baltimore MD 21230 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Colts
+END:VALARM
+DTSTART:20201129T180000Z
+DTEND:20201129T210000Z
+UID:6QOrYrFeUa25SALEvu1Xa_qZ@stanza.co
+SUMMARY:Titans at Colts
+DESCRIPTION:Titans at Colts\n\n🎟️ Buy tickets here: https://stza.co/~LudG?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Lucas Oil Stadium 500 South Capitol Avenue Indianapolis IN 46225 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Browns
+END:VALARM
+DTSTART:20201206T180000Z
+DTEND:20201206T210000Z
+UID:ZAVWQMtMQ17aYRV-UKNx6ZcR@stanza.co
+SUMMARY:Titans vs Browns
+DESCRIPTION:Titans vs Browns\n\n🎟️ Buy tickets here: https://stza.co/~LudI?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Jaguars
+END:VALARM
+DTSTART:20201213T180000Z
+DTEND:20201213T210000Z
+UID:AOQnOGjh_2ZTT28PvpJm4-Ng@stanza.co
+SUMMARY:Titans at Jaguars
+DESCRIPTION:Titans at Jaguars\n\n🎟️ Buy tickets here: https://stza.co/~LudM?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:TIAA Bank Field One EverBank Field Drive Jacksonville FL 32202 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans vs Lions
+END:VALARM
+DTSTART:20201220T180000Z
+DTEND:20201220T210000Z
+UID:nv_VISX-AIjqXMzB3todQPGQ@stanza.co
+SUMMARY:Titans vs Lions
+DESCRIPTION:Titans vs Lions\n\n🎟️ Buy tickets here: https://stza.co/~LudP?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Nissan Stadium One Titans Way Nashville TN 37213 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Packers
+END:VALARM
+DTSTART:20201228T012000Z
+DTEND:20201228T042000Z
+UID:pJkVhTyrq-6RJAqHw0M_HEEG@stanza.co
+SUMMARY:Titans at Packers
+DESCRIPTION:Titans at Packers\n\n\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:Lambeau Field 1265 Lombardi Avenue Green Bay WI 54304 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Titans at Texans
+END:VALARM
+DTSTART:20210103T180000Z
+DTEND:20210103T210000Z
+UID:8N3z5HKckHXggIs7ZOaM_tgc@stanza.co
+SUMMARY:Titans at Texans
+DESCRIPTION:Titans at Texans\n\n🎟️ Buy tickets here: https://stza.co/~LudR?trk=NlcZ\n\n🔥  The 2021 NBA and NHL seasons are around the corner. Add your teams with Stanza Plus and never miss a tip off or puck drop: bit.ly/splus-Add-Your-Team\n\nRemove this schedule: stza.co/$delete?trk=NlcZ\n\n👍 or 👎 this schedule? Review it: stza.co/$review?trk=NlcZ
+LOCATION:NRG Stadium One Reliant Park Houston TX 77054 USA
+STATUS:CONFIRMED
+DTSTAMP:20201213T164526Z
+CREATED:20201213T164526Z
+LAST-MODIFIED:20201213T164526Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
