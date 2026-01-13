@@ -1,28 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-	{% include W5navbar.html %}
+  {% include W5navbar.html %}
 
+  <div class="container">
+    <div class="marketing">
+      <div class="row">
+        <div class="span4 columns">
+          {% include W5player.html %}
+        </div>
+        <div class="span8 columns">
+          {{ content }}
+          <p style="margin-top: var(--space-xl);">
+            This Episode Brought To You By: <a href="{{ page.adlink }}">{{ page.ad }}</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<div class="container">	
-
-	<div class="marketing">
-		<div class="row">		
-		
-	<div class="span4 columns">
-	{% include W5player.html %}
-</div>
-		<div class="span4 columns">
-			{{ content }}
-			This Episode Brought To You By: <a href="{{ page.adlink }}"> {{ page.ad }} </a>
-			
-</div></div>
-	</div>
-
-     <!-- Footer -->
-
-
- </div>
-{% include javascript.html %}
- 
-  </body>
+  {% include footer.html %}
+  {% include javascript.html %}
+</body>
 </html>
