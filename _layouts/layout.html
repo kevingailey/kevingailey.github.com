@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-	{% include W5navbar.html %}
+  {% include W5navbar.html %}
 
-<div class="container">	
+  <div class="container">
+    <div class="marketing">
+      {{ content }}
+    </div>
+  </div>
 
-	<div class="marketing">
-	{{ content }}
-	</div>
-
-
-
-  </body>
-  {% include footer.html %}	 
+  {% include footer.html %}
   {% include javascript.html %}
-  
+</body>
 </html>

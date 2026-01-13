@@ -1,6 +1,10 @@
-		  		  <br />
-					  {% for post in site.posts %}	
-<a href="{{ post.url }}"><img height="300" width="300" src="{{ post.picA1 }}" /></a>
-<a href="{{ post.url }}"><img height="300" width="300" src="{{ post.picA2 }}" /></a>
-					  {% endfor %}
-				  <br/>
+<div class="photo-feed">
+  {% for post in site.posts %}
+    <a href="{{ post.url }}" class="photo-item">
+      <img src="{{ post.picA1 }}" alt="Photography by Kevin Gailey" loading="lazy" />
+    </a>
+    <a href="{{ post.url }}" class="photo-item">
+      <img src="{{ post.picA2 }}" alt="Photography by Kevin Gailey" loading="lazy" />
+    </a>
+  {% endfor %}
+</div>
