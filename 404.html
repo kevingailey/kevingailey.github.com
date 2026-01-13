@@ -1,24 +1,27 @@
 ---
 layout: layout
-title: "byKG"
+title: "Page Not Found - byKG"
 ---
-<div class="container">	
-<h1>OOOOPS</h1>
-	<div class="marketing">
-	<br /><h3>404..</h3>
-	<p>Whatever you are looking for was not found.<br /> <a href="/">Try Returning Home</a></p>
-	
-	<p>or check out some photos from all over the world</p>
-	<br />
-	  {% for post in site.posts %}	
-	<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA1 }}" /></a>
-	<a href="{{ post.url }}"><img height="350" width="350" src="{{ post.picA2 }}" /></a>
-	<br />
-	  {% endfor %}
-		</div>
+<div class="content text-center" style="padding: var(--space-3xl) 0;">
+  <h1 style="font-size: var(--text-3xl); margin-bottom: var(--space-lg);">Oops!</h1>
+  <h3 style="color: var(--color-text-secondary); margin-bottom: var(--space-xl);">404 - Page Not Found</h3>
+  <p style="font-size: var(--text-lg); margin-bottom: var(--space-2xl);">
+    Whatever you're looking for wasn't found.<br />
+    <a href="/" style="color: var(--color-accent-primary);">Try returning home</a>
+  </p>
 
- </div><!-- /container -->
+  <p style="color: var(--color-text-muted); margin-bottom: var(--space-2xl);">
+    Or check out some photos from all over the world:
+  </p>
 
-
-  </body>
-</html>
+  <div class="photo-feed">
+    {% for post in site.posts %}
+      <a href="{{ post.url }}" class="photo-item">
+        <img src="{{ post.picA1 }}" alt="Photography by Kevin Gailey" loading="lazy" />
+      </a>
+      <a href="{{ post.url }}" class="photo-item">
+        <img src="{{ post.picA2 }}" alt="Photography by Kevin Gailey" loading="lazy" />
+      </a>
+    {% endfor %}
+  </div>
+</div>

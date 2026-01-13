@@ -1,44 +1,45 @@
- <head>
+<head>
     <meta charset="utf-8">
     <title>{{ page.title }} | Photography & More by.KG | Kevin Gailey</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-<link rel="icon" type="img/png" href="/img/icon.png" />
-    <!-- Le styles -->
-	<link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="/css/docs.css" rel="stylesheet">    
-  </head>
+    <meta name="description" content="Photography portfolio of Kevin Gailey - Professional photographer showcasing travel, graduation, and lifestyle photography">
+    <meta name="author" content="Kevin Gailey">
+    <link rel="icon" type="image/png" href="/img/icon.png" />
 
-  <body data-spy="scroll" data-target=".subnav" data-offset="50">
+    <!-- Modern Styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="/css/modern.css" rel="stylesheet">
+</head>
 
-  <!-- Navbar
-    ================================================== -->
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="brand" href="https://by.kevingailey.com" style="font-color: #6dbac9;">by.KG</a>
-          <div class="w5bar">
-		  <br /><br />
-            <ul class="nav">
-		  <li class="divider-vertical"></li>
-	        <li class="">
-	          <a href="/photogbykg.html" target="_blank">GradPics by.KG</a>
-	        </li>
-		  <li class="divider-vertical"></li>
-	        <li class="">
-	          <a href="/travelzbykg.html" target="_blank">Travels by.KG</a>
-	        </li>
-				  <li class="divider-vertical"></li>
-              <li class="">
-                <a href="https://instagram.com/snapsbykg">Snaps by.KG</a>
-              </li>	
-		  <li class="divider-vertical"></li>
-
-
-            </ul>
-          </div>
-        </div>
-      </div>
+<body>
+  <!-- Modern Navigation Bar -->
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a class="brand" href="https://by.kevingailey.com">by.KG</a>
+      <button class="menu-toggle" onclick="toggleMenu()" aria-label="Toggle menu">
+        <span id="menu-icon">☰</span>
+      </button>
+      <ul class="nav" id="navMenu">
+        <li>
+          <a href="/photogbykg.html" target="_blank">GradPics by.KG</a>
+        </li>
+        <li>
+          <a href="/travelzbykg.html" target="_blank">Travels by.KG</a>
+        </li>
+        <li>
+          <a href="https://instagram.com/snapsbykg" target="_blank" rel="noopener">Snaps by.KG</a>
+        </li>
+      </ul>
     </div>
+  </nav>
+
+  <script>
+    function toggleMenu() {
+      const menu = document.getElementById('navMenu');
+      const icon = document.getElementById('menu-icon');
+      menu.classList.toggle('active');
+      icon.textContent = menu.classList.contains('active') ? '✕' : '☰';
+    }
+  </script>
