@@ -395,6 +395,24 @@ footer {
 }
 
 /* ============================================
+   Homepage Sections
+   ============================================ */
+.recent-writing {
+  margin-bottom: var(--space-4xl);
+  padding-bottom: var(--space-3xl);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.photo-section {
+  margin-top: var(--space-2xl);
+}
+
+.recent-writing h2,
+.photo-section h2 {
+  color: var(--color-text-primary);
+}
+
+/* ============================================
    Responsive Design
    ============================================ */
 @media (max-width: 767px) {
