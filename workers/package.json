@@ -1,0 +1,25 @@
+{
+  "name": "bykg-cloudflare-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers deployment for by.KG portfolio",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "cd .. && bundle exec jekyll build && cd workers",
+    "deploy": "npm run build && wrangler deploy",
+    "deploy:preview": "npm run build && wrangler deploy --env preview",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240117.0",
+    "typescript": "^5.3.3",
+    "wrangler": "^3.24.0"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "portfolio"
+  ],
+  "author": "Kevin Gailey",
+  "license": "MIT"
+}
